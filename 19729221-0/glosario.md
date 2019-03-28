@@ -3,7 +3,8 @@
 2. El cliente replica completamente el repositorio en su dispositivo. De esta forma, si un servidor llegase a “morir”, cualquiera de los repositorios de los clientes podría ser utilizado para restaurar el servidor. 
 [fuente](https://git-scm.com/book/es/v1/Empezando-Acerca-del-control-de-versiones)
 3. Los repositorios remotos son versiones del proyecto que se encuentran en internet. Un repositorio local serían las versiones del proyecto que se encuentran alojadas en el computador personal. 
-[fuente](https://git-scm.com/book/es/v1/Fundamentos-de-Git-Trabajando-con-repositorios-remotos ; 	https://colaboratorio.net/atareao/developer/2017/git-y-github-trabajando-con-repositorios-locales/)
+[fuente1](https://git-scm.com/book/es/v1/Fundamentos-de-Git-Trabajando-con-repositorios-remotos)
+[fuente2](https://colaboratorio.net/atareao/developer/2017/git-y-github-trabajando-con-repositorios-locales/)
 4. Todos los archivos, incluyendo versiones anteriores, se encuentran en un repositorio. Ahí, todos los cambios que han sido hechos en el repositorio anteriormente estarán siempre disponible. 
 [fuente](https://www.thomas-krenn.com/en/wiki/Git_Basic_Terms)
 5. Staging Area es una única carpeta, generalmente ubicada en el directorio de Git, que almacena la información acerca de lo que contendrá el próximo commit. 
